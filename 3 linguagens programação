@@ -1,0 +1,25 @@
+Python é uma linguagem de programação de propósito geral, conhecida por sua simplicidade e legibilidade. Ela é amplamente utilizada em áreas como ciência de dados, automação, desenvolvimento web (com frameworks como Django e Flask) e inteligência artificial. Sua sintaxe é concisa, o que torna o código fácil de ler e escrever. Uma das principais vantagens do Python é que ele utiliza indentação para definir blocos de código, em vez de chaves ou pontos e vírgulas, o que torna o código mais limpo.
+Exemplo de código em Python:
+```python
+print("Olá, Mundo!")
+```
+JavaScript é a linguagem de programação mais usada no desenvolvimento web. Originalmente projetada para adicionar interatividade a páginas web, ela evoluiu com o tempo e agora também pode ser usada no backend, graças ao Node.js. JavaScript é uma linguagem baseada em eventos e orientada a objetos, e sua sintaxe, embora um pouco mais complexa do que Python, é bastante flexível. Ela é a linguagem padrão para a programação do lado do cliente em navegadores da web.
+Exemplo de código em JavaScript:
+```javascript
+console.log("Olá, Mundo!");
+```
+Java é uma linguagem de programação fortemente tipada e orientada a objetos. Ela é conhecida por sua robustez e portabilidade, sendo uma escolha comum para aplicações empresariais, sistemas distribuídos e desenvolvimento de aplicativos Android. A principal característica do Java é que ele requer uma estrutura mais detalhada, com declarações explícitas de tipos e o uso obrigatório de classes. Sua sintaxe é mais verbosa em comparação com Python e JavaScript, mas oferece uma base sólida para grandes sistemas.
+Exemplo de código em Java:
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+```
+ Resumo das diferenças:
+- Python é conhecida por sua simplicidade e legibilidade, sendo ideal para scripts rápidos e protótipos.
+- JavaScript é amplamente usada no desenvolvimento web, tanto no frontend quanto no backend, sendo excelente para criar páginas dinâmicas e interativas.
+- Java é uma linguagem robusta e estruturada, adequada para grandes sistemas e aplicativos móveis, especialmente no desenvolvimento Android.
+
+Cada uma dessas linguagens tem suas forças e se destaca em diferentes contextos. A escolha entre elas depende muito do tipo de aplicação que se deseja desenvolver.
