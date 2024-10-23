@@ -10,4 +10,7 @@ def bubble_sort(arr):
     return arr
 lista = [64, 34, 25, 12, 22, 11, 90]
 print("Lista ordenada:", bubble_sort(lista))
+Lista ordenada: [11, 12, 22, 25, 34, 64, 90]
+
+=== Code Execution Successful ===
 
