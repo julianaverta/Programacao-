@@ -1,0 +1,10 @@
+def bubble_sort(arr):
+    n = len(arr)
+    # Iterar por cada elemento da lista
+    for i in range(n):
+        # O último i elementos já estão ordenados
+        for j in range(0, n-i-1):
+            # Trocar se o elemento encontrado for maior que o próximo
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+    return arr
