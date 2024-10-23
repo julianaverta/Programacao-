@@ -1,0 +1,15 @@
+def imprime_vogais(texto):
+    vogais = "aeiouAEIOU"
+    resultado = ""
+    
+    # Percorre cada letra do texto
+    for letra in texto:
+        # Verifica se a letra é uma vogal
+        if letra in vogais:
+            resultado += letra
+    return resultado
+frase = "Os golfinhos nadam no mar"
+print("Vogais na frase:", imprime_vogais(frase))
+Vogais na frase: Ooioaaoa
+
+=== Code Execution Successful ===
